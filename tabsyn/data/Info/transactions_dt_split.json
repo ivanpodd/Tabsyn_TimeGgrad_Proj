@@ -1,0 +1,1 @@
+{"name": "transactions_dt_split", "task_type": "binclass", "header": "infer", "column_names": [], "num_col_idx": [3, 4], "cat_col_idx": [0, 1, 2], "target_col_idx": [], "file_type": "csv", "data_path": "data/transactions_dt_split/transactions_dt_split.csv", "test_path": "", "time_q": 0.9, "user_q": 0.9}
